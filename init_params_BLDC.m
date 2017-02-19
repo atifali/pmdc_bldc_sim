@@ -1,8 +1,5 @@
 % inititalizes the parameters for the simulation models to work with when
 % executed individually
-clear all;
-close all;
-clc;
 
 %% Set Prameters for BLDC motor
 Vdc = 6; % in V
